@@ -29,10 +29,10 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https:jonbit.net">jonbit.net</a></td>
+        <td><a href="https://jonbit.net">jonbit.net</a></td>
       </tr>
       <tr>
-        <td><a href="johnny24.net">johnny24.net</a></td>
+        <td><a href="https://johnny24.net">johnny24.net</a></td>
       </tr> 
   </tbody>
   </table>
